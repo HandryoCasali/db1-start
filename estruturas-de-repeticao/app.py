@@ -1,5 +1,4 @@
 
-
 def TotalSalarioHorasTrabalhadas():
     vlrHora = 0
     nmrHora = 0
