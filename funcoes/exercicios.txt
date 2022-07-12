@@ -1,0 +1,41 @@
+Escreva um programa que execute uma função que
+encontre o maior número de uma lista passada por
+parâmetro.
+
+Escreva um programa que execute uma função que
+some todos os itens de uma lista passada por
+parâmetro.
+
+Escreva um programa que execute uma função que
+multiplique todos os números de uma lista passada por
+parâmetro
+
+Escreva um programa que execute uma função que
+retorne o inverso de uma string passada por parâmetro.
+
+Escreva um programa que execute uma função que
+calcule o fatorial de um número passado por parâmetro.
+
+Escreva um programa que execute uma função que
+conte o número de letras maiúsculas e minúsculas de
+um texto e que ao final, chame outra função para
+imprimir o resultado.
+
+Escreva um programa Python que execute uma string
+que contenha um código Python.
+
+Escreva um programa que execute uma função que
+receba um número informado no console como
+parâmetro e verifique se o número informado é primo ou
+não.
+
+Escreva um programa que execute uma função que
+valide se o número informado é um número perfeito ou
+não.
+
+Escreva um programa que execute uma função que
+valide se o número informado é um número perfeito ou
+não.
+
+Escreva uma função que imprima as primeiras n linhas
+do triângulo de pascal.
