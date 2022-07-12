@@ -13,3 +13,13 @@ Repositório dedicado aos exercícios do DB1-Start
 * A lista de exercícios pode ser visto [aqui](estruturas-de-repeticao/exercicios.txt)
 * A codificação dos exercícios pode ser visto [aqui](estruturas-de-repeticao/app.py) 
 
+## Tipos não primitivos
+* A lista de exercícios pode ser visto [aqui](tipos-nao-primitivos/exercicios.txt)
+* A codificação dos exercícios pode ser visto [aqui](tipos-nao-primitivos/app.py) 
+
+## Funções
+* A lista de exercícios pode ser visto [aqui](funcoes/exercicios.txt)
+* A codificação dos exercícios pode ser visto [aqui](funcoes/app.py) 
+
+
+
